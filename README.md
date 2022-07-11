@@ -1,4 +1,4 @@
-# SoeechToText
+# SpeechToText
 Program for converting voices to writing in html
 
 
